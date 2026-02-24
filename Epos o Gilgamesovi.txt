@@ -1,6 +1,6 @@
 Tu je vec, ktorá je stabilná a overená
 Toto tiež nechytaj
 Táto časť je divne napísaná a dá sa prepísať
-V tejto časti sa nachádza skrytý bug
+Bug z tejto časti bol odstránený
 
 Toto je nová kapitola, ktorá není v konflikte s main branch
