@@ -1,0 +1,4 @@
+Tu je vec, ktorá je stabilná a overená
+Toto tiež nechytaj
+Táto časť je divne napísaná a dá sa prepísať
+V tejto časti sa nachádza skrytý bug
